@@ -9,3 +9,5 @@ Sound Effect: A new sound effect is played when spotted by a gargoyle.
 Particle Effect: A new particle effect is played when spotted by a gargoyle.
 
 All of the above are triggered by walking into a gargoyle.
+
+Team members: Drew Moulton
