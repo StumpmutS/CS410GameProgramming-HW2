@@ -256,7 +256,7 @@ PrefabInstance:
         type: 3}
       propertyPath: OnPlayerTrigger.m_PersistentCalls.m_Calls.Array.data[3].m_Target
       value: 
-      objectReference: {fileID: 1513577154286143052}
+      objectReference: {fileID: 360311408}
     - target: {fileID: 4078855156467671687, guid: 39d0626ce76d1884da050e0e509a5540,
         type: 3}
       propertyPath: OnPlayerTrigger.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
@@ -1210,6 +1210,18 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 1
+--- !u!114 &360311408 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7628469731989567832, guid: 39d0626ce76d1884da050e0e509a5540,
+    type: 3}
+  m_PrefabInstance: {fileID: 50719414}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d07b4869d0c74683b667cb0d248c7ba4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &372131255
 GameObject:
   m_ObjectHideFlags: 0
@@ -2353,7 +2365,7 @@ PrefabInstance:
         type: 3}
       propertyPath: OnPlayerTrigger.m_PersistentCalls.m_Calls.Array.data[3].m_Target
       value: 
-      objectReference: {fileID: 1513577154286143052}
+      objectReference: {fileID: 2046819347}
     - target: {fileID: 4078855156467671687, guid: 39d0626ce76d1884da050e0e509a5540,
         type: 3}
       propertyPath: OnPlayerTrigger.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
@@ -3505,6 +3517,18 @@ MonoBehaviour:
   m_DeselectOnBackgroundClick: 1
   m_PointerBehavior: 0
   m_CursorLockBehavior: 0
+--- !u!114 &2046819347 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7628469731989567832, guid: 39d0626ce76d1884da050e0e509a5540,
+    type: 3}
+  m_PrefabInstance: {fileID: 1407275730}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d07b4869d0c74683b667cb0d248c7ba4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2082689750 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 186551185991188437, guid: 549c69af39b84624b8a053537c407def,
