@@ -1,6 +1,6 @@
 # CS410GameProgramming-HW2
 
-Dot Product: When ghosts enter a chasing state, they only move when the player facing in their direction. This is accomplished by comparing the dot product of the player's forward vector and the direction from the ghost to the player to 0.
+Dot Product: When ghosts enter a chasing state, they only move when the player is facing in their direction. This is accomplished by comparing the dot product of the player's forward vector and the direction from the ghost to the player to 0.
 
 Linear Interpolation: When the lights are dimmed, linear interpolation is used to dim the light values smoothly.
 
